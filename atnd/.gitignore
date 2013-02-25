@@ -1,0 +1,6 @@
+/target
+/.settings
+/.project
+/dotcloud.yml
+/.springBeans
+/.classpath

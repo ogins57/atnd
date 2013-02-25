@@ -1,0 +1,53 @@
+#header {
+	background: #FFFFA4;
+	padding: 10px;
+	border-bottom: 2px solid;
+	font: small-caps 40px/40px "Times New Roman", serif;
+	color: #005920;
+	text-align: center;
+}
+
+#header  img {
+	float: left;
+	width: 100px;
+	height: 45px
+}
+
+#main {
+	margin-left: 17em;
+	padding: 1em;
+	background: white;
+	text-align: center;
+}
+
+#main table {
+	margin-left: auto;
+	margin-right: auto;
+	border: 4px #595900 solid;
+	background-color: #ffffff;
+}
+
+#main td,th {
+	border: 4px #595900 solid;
+}
+
+#menu {
+	float: left;
+	padding: 1em 2em;
+	width: 9em;
+	height: 90%;
+	background: #FFF3A4;
+}
+
+#menu ul {
+	padding: 0;
+}
+
+#menu  ul li {
+	list-style: none;
+}
+
+#menu ul li  a {
+	color: #005920;
+	font-size: small;
+}
